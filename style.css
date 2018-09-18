@@ -26,15 +26,8 @@ h1 {
     margin-bottom: 30px;
 }
 
-ul {
-    display: inline;
-    list-style: none;
-    padding: 0px;
-    margin-top: 0px;
-}
-
-
-ls {
+h3 {
+    display: inline-block;
     font-family: 'Lato', sans-serif;
     font-weight: medium;
     font-size: 18px;
